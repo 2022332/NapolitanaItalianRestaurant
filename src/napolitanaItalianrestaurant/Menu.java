@@ -6,7 +6,7 @@ package napolitanaItalianrestaurant;
 
 /**
  *
- * @author Ari Murillo 2022332
+ * @author Ari Murillo
  */
 public abstract class Menu {
     
